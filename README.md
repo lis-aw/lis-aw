@@ -1,4 +1,8 @@
-<img align="left" height="228" src="https://i.postimg.cc/Cx2KVjPx/codinglisaday.gif"  />
+<picture>
+  <source srcset="https://i.postimg.cc/wMF64JRH/codinglisanight.gif" media="(prefers-color-scheme: dark)">
+  <img align="left" height="228" src="https://i.postimg.cc/Cx2KVjPx/codinglisaday.gif" alt="Coding Lisa Day">
+</picture>
+
 
 ###
 
